@@ -1,4 +1,4 @@
-# TC3007_Estadistica
+# TC3007_Estadística
 Repositorio para el módulo de Estadística de TC3007C
 
 ## Entregable 1
